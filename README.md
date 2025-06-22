@@ -1,6 +1,6 @@
 # Mon premier dépôt
 
-Bonjour ! Je m'appelle [Baïlou Sondé Emmanuel Moïse] et voici mon premier projet sur GitHub 🚀
+Bonjour ! Je m'appelle Baïlou Sondé Emmanuel Moïse et voici mon premier projet sur GitHub 🚀
 
 Mise à jour du README
 # Soutien pour tous
